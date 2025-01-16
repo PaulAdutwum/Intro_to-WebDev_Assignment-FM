@@ -16,10 +16,9 @@ Welcome to Fatina's Crochet Creations website! This project showcases beautiful 
 ## How to View
 Visit the website [here](https://your-website-link).
 
-## Screenshots
-- Add screenshots of your project here (optional).
 
----
+
+
 
 ### Step 2: Stage and Commit the `README.md`
 1. Add the file to the staging area:
