@@ -6,11 +6,11 @@ Welcome to Fatina's Crochet Creations website! This project showcases beautiful 
 - Homepage: Introduction to the site and a warm welcome to visitors.
 - Sweaters Section: A dedicated page showcasing hand-crafted sweaters.
 - Scarves Section: A gallery of unique and stylish scarves.
-- **Jackets Section**: Explore custom-made crochet jackets.
+- Jackets Section: Explore custom-made crochet jackets.
 
 ## Technologies Used
 - HTML: Structure of the website.
-- CSS**: Styling and layout with grid and flexbox.
+- CSS: Styling and layout with grid and flexbox.
 - Responsive Design**: Mobile-friendly layout.
 
 ## How to View
