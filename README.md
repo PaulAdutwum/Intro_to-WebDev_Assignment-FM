@@ -9,9 +9,9 @@ Welcome to Fatina's Crochet Creations website! This project showcases beautiful 
 - **Jackets Section**: Explore custom-made crochet jackets.
 
 ## Technologies Used
-- **HTML**: Structure of the website.
-- **CSS**: Styling and layout with grid and flexbox.
-- **Responsive Design**: Mobile-friendly layout.
+- HTML: Structure of the website.
+- CSS**: Styling and layout with grid and flexbox.
+- Responsive Design**: Mobile-friendly layout.
 
 ## How to View
 Visit the website [here](https://your-website-link).
