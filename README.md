@@ -3,9 +3,9 @@
 Welcome to Fatina's Crochet Creations website! This project showcases beautiful hand-crafted crochet items, including sweaters, scarves, handkerchiefs, and jackets. 
 
 ## Features
-- **Homepage**: Introduction to the site and a warm welcome to visitors.
-- **Sweaters Section**: A dedicated page showcasing hand-crafted sweaters.
-- **Scarves Section**: A gallery of unique and stylish scarves.
+- Homepage: Introduction to the site and a warm welcome to visitors.
+- Sweaters Section: A dedicated page showcasing hand-crafted sweaters.
+- Scarves Section: A gallery of unique and stylish scarves.
 - **Jackets Section**: Explore custom-made crochet jackets.
 
 ## Technologies Used
