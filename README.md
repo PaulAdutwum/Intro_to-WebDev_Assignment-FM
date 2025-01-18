@@ -13,14 +13,11 @@ Welcome to Fatina's Crochet Creations website! This project showcases beautiful 
 - CSS: Styling and layout with grid and flexbox.
 - Responsive Design: Mobile-friendly layout.
 
-## How to View
-Visit the website [here](https://your-website-link).
 
 
 
 
 
-### Step 2: Stage and Commit the `README.md`
-1. Add the file to the staging area:
-   ```bash
-   git add README.md
+
+
+
